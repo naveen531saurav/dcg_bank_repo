@@ -4,5 +4,6 @@ public class Test{
 		/* added 
 		 * second comment again
 		 */
+		//added third comment
 	}
 }
